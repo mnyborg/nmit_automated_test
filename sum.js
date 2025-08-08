@@ -1,4 +1,8 @@
-function sum(a, b) {
-  return a + b;
+function sum(...numbers) {
+  let total = 0;
+  for (let i = 0; i < numbers.length; i++) {
+    total += numbers[i];
+  }
+  return total;
 }
 module.exports = sum;
