@@ -4,7 +4,8 @@
   "description": "Starter template for learning CI with Jest and GitHub Actions",
   "main": "sum.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+     "lint": "eslint .",
   },
   "devDependencies": {
     "jest": "^29.0.0"
