@@ -31,3 +31,6 @@ This template is for learning how to set up automated testing using Jest and Git
 - Your tests run automatically on GitHub
 - Failing tests show up in the Actions tab
 - You understand how CI fits into modern development
+
+## Badge
+![CI](https://github.com/mnyborg/nmit_automated_test/actions/workflows/test.yml/badge.svg)
