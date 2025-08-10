@@ -12,5 +12,12 @@
     "eslint": "^9.33.0",
     "globals": "^16.3.0",
     "jest": "^29.0.0"
+  },
+  "eslintConfig": {
+    "env": {
+    "es2021": true,
+    "node": true,
+    "jest": true
+    }
   }
 }
