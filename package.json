@@ -5,7 +5,7 @@
   "main": "sum.js",
   "scripts": {
     "test": "jest",
-     "lint": "eslint .",
+     "lint": "eslint ."
   },
   "devDependencies": {
     "jest": "^29.0.0"
