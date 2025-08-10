@@ -5,9 +5,10 @@
   "main": "sum.js",
   "scripts": {
     "test": "jest",
-     "lint": "eslint ."
+    "lint": "eslint ."
   },
   "devDependencies": {
+    "eslint": "^9.33.0",
     "jest": "^29.0.0"
   }
 }
